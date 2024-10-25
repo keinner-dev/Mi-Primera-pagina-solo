@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "./Header";
-import HeroSection from "./HeroSection";
-import InfoSection from "./InfoSection";
-import Gallery from "./Gallery";
-import Footer from "./Footer";
-import BestSection from "./BestSection";
+import Header from "./components/Header/Header";
+import HeroSection from "./components/Herosection/HeroSection";
+import InfoSection from "./components/Infosection/InfoSection";
+import Gallery from "./components/gallery/Gallery";
+import Footer from "./components/Footer/Footer";
+import BestSection from "./components/BestSection/BestSection";
 
 function App() {
   const carInfo1 = {
