@@ -1,5 +1,3 @@
-// src/App.js
-
 import React from "react";
 import Header from "./Header";
 import HeroSection from "./HeroSection";
@@ -28,7 +26,7 @@ function App() {
     { name: "SUV Eléctrico ABC", price: "$45,000", image: "https://www.mgmotorguatemala.com/wp-content/uploads/2023/11/MG-ZS-WHITE-1024x625.png" },
     { name: "Sedán Clásico 123", price: "$30,000", image: "https://images.kavak.services/images/17043/smart-forfour-prime2017-frontal-lateral-piloto-cercana-1575565300856.jpg" },
     { name: "Camioneta Off-road", price: "$55,000", image: "https://images.kavak.services/images/158753/EXTERIOR-frontSidePilotNear-1642210134315.jpeg" },
-    // Agrega más vehículos según sea necesario
+    { name: "nissan sentra", price: "$20,000", image: "https://di-uploads-pod35.dealerinspire.com/newtonnissanofgallatin/uploads/2021/02/2021-Nissan-Sentra-S-Model-Left.jpg" },
   ];
 
   return (

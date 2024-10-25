@@ -1,5 +1,3 @@
-// src/Footer.js
-
 import React from "react";
 import "./Footer.css";
 
@@ -26,7 +24,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer-rights">
-        <p>&copy; {new Date().getFullYear()} Tu Empresa. Todos los derechos reservados.</p>
+        <p>&copy; {new Date().getFullYear()} IKAY2K22. Todos los derechos reservados.</p>
       </div>
     </footer>
   );
