@@ -1,5 +1,5 @@
 .best-section {
-    background-color: #e60000; 
+    background-color: #ccc; 
     color: #fff;
     padding: 40px 20px;
     text-align: center;
@@ -10,11 +10,16 @@
     font-size: 2rem;
     margin-bottom: 10px;
     font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
   }
   
   .best-section p {
     font-size: 1.1rem;
     max-width: 600px;
     margin: 0 auto;
+    font-family: fantasy;
+    color: black ;
+    font-size: medium;
   }
   

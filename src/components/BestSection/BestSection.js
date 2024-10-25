@@ -10,7 +10,7 @@ function BestSection() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
     >
-      <h2>Somos los mejores del mercado</h2>
+      <h2>🔥Somos los mejores del mercado🔥</h2>
       <p>
         Nos destacamos por nuestra amplia experiencia, servicio de calidad y una selección incomparable de vehículos para todas tus necesidades. Confía en nosotros para llevarte a tu próximo destino con estilo y seguridad.
       </p>

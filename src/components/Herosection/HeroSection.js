@@ -15,7 +15,7 @@ function HeroSection() {
       transition={{ duration: 1 }}
     >
       <div className="hero-content">
-        <h1>¡Promoción Especial de Otoño!</h1>
+        <h1>¡🔥Promoción Especial de Otoño🔥!</h1>
         <p>Descuentos de hasta el 30% en modelos seleccionados. ¡No te lo pierdas!</p>
         <button className="hero-button">Ver Modelos</button>
       </div>
