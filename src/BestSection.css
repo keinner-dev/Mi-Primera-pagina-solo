@@ -1,0 +1,22 @@
+/* src/BestSection.css */
+
+.best-section {
+    background-color: #e60000; /* Puedes elegir el color que prefieras */
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .best-section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .best-section p {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
